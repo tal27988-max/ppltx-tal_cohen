@@ -2,6 +2,18 @@
 # Database Monitoring
 ## Final project - 1
 
+to run the code
+
+`python ./project/db_monitor/tal_dayli.py bigquery-public-data`
+
+
+```bash
+
+python ./project/db_monitor/daily_db_monitor_update_04.py my-project-ppltx-sql --table_override
+python ./project/db_monitor/daily_db_monitor_update_04.py bigquery-public-data --table_override
+```
+
+
 ### Background
 BigQuery public project contains many datasets,
 
@@ -42,6 +54,7 @@ for the code I use
 
 ## Process
 For given project_id -
+
 we need to extract (list) all the datasets
 
 for each dataset - we need to list all the tables
@@ -51,4 +64,4 @@ and for each table - extract the info
 save all the data into a table in our project
 
 
-create schema bi_final_project OPTIONS( description = 'Contains tables from final project')
+#### create schema bi_final_project OPTIONS( description = 'Contains tables from final project')
