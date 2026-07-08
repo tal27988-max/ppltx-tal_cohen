@@ -92,6 +92,21 @@ Includes:
 
 ---
 
+# 👨‍💻 About Me
+
+BI Developer with experience in:
+
+- SQL
+- Python
+- dbt
+- ETL Development
+- Snowflake
+- BigQuery
+- Power BI
+- Looker
+  
+---
+
 # 📚 Current Learning Journey
 
 I continuously expand my knowledge in modern Data Engineering technologies:
@@ -116,18 +131,6 @@ I continuously expand my knowledge in modern Data Engineering technologies:
 - Infrastructure as Code
 
 ---
-
-# 👨‍💻 About Me
-
-BI Developer with experience in:
-
-- SQL
-- Python
-- ETL Development
-- Snowflake
-- BigQuery
-- Power BI
-- Looker
 
 
 Currently focusing on becoming a Data Engineer by building real-world projects and learning cloud-based technologies.
