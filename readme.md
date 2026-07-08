@@ -13,7 +13,7 @@ My focus is on building reliable data pipelines, improving data quality, and wor
 | Category | Technologies |
 |----------|--------------|
 | Programming | Python |
-| Databases | SQL, BigQuery |
+| Databases | SQL, BigQuery, Snowflake |
 | Data Engineering | ETL, dbt |
 | BI | Power BI |
 | Version Control | Git, GitHub |
