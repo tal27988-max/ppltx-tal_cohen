@@ -29,7 +29,7 @@ python ./project/db_monitor/daily_db_monitor_update_04.py bigquery-public-data
 
 ---
 
-### Background
+# Background
 BigQuery public project contains many datasets,
 
 It is impossible to monitor when each table had been updated
